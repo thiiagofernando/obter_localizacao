@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/obter_localizacao.iml" filepath="$PROJECT_DIR$/obter_localizacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/obter_localizacao_android.iml" filepath="$PROJECT_DIR$/android/obter_localizacao_android.iml" />
     </modules>
   </component>
 </project>
